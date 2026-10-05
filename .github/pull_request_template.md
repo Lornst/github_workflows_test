@@ -9,8 +9,6 @@
 - [ ] Refactor / cleanup
 - [ ] Documentation
 - [ ] Other:
-
-
 <!-- PRs into main: start the title with major:, minor: or fix: -->
 
 ## Changes made
